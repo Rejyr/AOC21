@@ -1,0 +1,9 @@
+[package]
+name = "AOC-21-22"
+version = "0.1.0"
+edition = "2021"
+default-run = "AOC1"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
