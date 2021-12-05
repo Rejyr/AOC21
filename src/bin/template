@@ -1,0 +1,13 @@
+fn main() {
+    let s = include_str!("input");
+    // println!("Part 1: {}", part1());
+    // println!("Part 2: {}", part2());
+}
+
+fn part1() {
+    todo!()
+}
+
+fn part2() {
+    todo!()
+}
